@@ -1,27 +1,29 @@
 = M-Pesa
 
 
-== Integration 
+== Others Integration 
 
-* 
-* moneychat (Money Chat)
-* mkesh
-* E-Mola (https://movitel.co.mz/digital-services/1503630144128)
+* M-Pesa	Mobile Money (Vodacom)
+* E-Mola	Mobile Money (Movitel) (https://movitel.co.mz/digital-services/1503630144128)
+* mKesh         Mobile Money (Tmcel)
+* MoneyChat	Plataforma de Conversação / Pagamentos
 
+
+== Meios Pagamento 
+
+* C2B (Customer to Business) 
+* B2C (Business to Customer) 
+
+
+== Mobilidade
+
+
+* Epsilon Mobilidade	Mobilidade Urbana / Software https://epsilonmobilidade.co.mz/
+* Txopela               Aplicativo de Mobilidade / Transporte https://txopelamz.app/
 
 
 == Reference
 
 * https://www.vm.co.mz/m-pesa/artigo/api-aberta-do-m-pesa
-
-
-== Outros
-
-* https://epsilonmobilidade.co.mz/
-* https://txopelamz.app/
-
-
-== Implementaçoes
-
 * https://packagist.org/packages/explicador/e2payments-php-sdk
 * https://github.com/bluteki/emola-sdk
