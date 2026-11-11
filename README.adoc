@@ -1,0 +1,27 @@
+= M-Pesa
+
+
+== Integration 
+
+* 
+* moneychat (Money Chat)
+* mkesh
+* E-Mola (https://movitel.co.mz/digital-services/1503630144128)
+
+
+
+== Reference
+
+* https://www.vm.co.mz/m-pesa/artigo/api-aberta-do-m-pesa
+
+
+== Outros
+
+* https://epsilonmobilidade.co.mz/
+* https://txopelamz.app/
+
+
+== Implementaçoes
+
+* https://packagist.org/packages/explicador/e2payments-php-sdk
+* https://github.com/bluteki/emola-sdk
